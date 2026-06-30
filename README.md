@@ -4,7 +4,7 @@
 
 This repository contains a comprehensive data analytics project that evaluates sales performance, customer preferences, and outlet metrics for **Blinkit**.
 
-Utilizing an end-to-end Power BI pipeline, this project transforms over **8,500** raw operational transaction records into an interactive executive-level tracking dashboard.
+Utilizing an end-to-end Power BI pipeline, this project transforms over **8,500+** raw operational transaction records into an interactive executive-level tracking dashboard.
 
 The analysis evaluates key commercial variables — including product category performance, store-size margins, item fat content trends, and geographic revenue distributions — bridging business administration strategy with modern business intelligence (BI).
 
