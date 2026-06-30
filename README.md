@@ -10,12 +10,6 @@ The analysis evaluates key commercial variables — including product category p
 
 ---
 
-## Dashboard Preview
-
-![Blinkit Sales Analytics Dashboard](images/dashboard.jpeg)
-
----
-
 ## Business Objective
 
 The primary business objective is to diagnose channel-wide sales trends to identify efficiency opportunities, optimize inventory distribution, and improve fulfillment channels. Specifically, the analysis aims to:
