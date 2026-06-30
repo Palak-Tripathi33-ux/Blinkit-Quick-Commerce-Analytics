@@ -46,7 +46,7 @@ The single-page diagnostic dashboard delivers dynamic, real-time filtering and a
 
 ---
 
-## Key Analytical Insights (By the Numbers)
+## Key Analytical Insights 
 
 ### 1. Top-Line Commercial Health
 
